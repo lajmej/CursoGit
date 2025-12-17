@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+body{
+    font-weight:bold;
+    color: #F00;
+}
+
 #cabeceraweb{
     background-color : #00F;
 }
